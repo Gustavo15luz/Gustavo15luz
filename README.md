@@ -10,5 +10,4 @@ Meu nome é Gustavo Luz
 
 gustavoluzsantos15@gmail.com
 
-
-https://media.tenor.com/1Dlnu_EdFSMAAAAi/fafuke-sasuke.gif
+![](https://media.tenor.com/1Dlnu_EdFSMAAAAi/fafuke-sasuke.gif)
